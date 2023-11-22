@@ -12,5 +12,5 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Mat | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: https://linkedin.com/in/mathew-harley-004075163
+[<img align="left" alt="Mathew | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/mathew-harley-004075163/
